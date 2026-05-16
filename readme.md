@@ -8,10 +8,9 @@ Cilj vežbe je upoznavanje sa procesom postavljanja (deployment-a) sajta na besp
 - CSS3 - Stilovi, raspored elemenata i responzivni dizajn
 - GitHub Pages - Hosting platforma i automatizovani deployment
 
-U sklopu zadatka, sajt je testiran kroz tri različita alata kako bi se analizirale performanse i standardi koda:
-1. Google PageSpeed Insights - Merenje brzine učitavanja na mobilnim i desktop uređajima.
-2. W3C Nu HTML Checker** - Validacija usklađenosti koda sa HTML5 standardima (napomena: u kodu su namerno ostavljene određene nepravilnosti u svrhe QA analize).
-3. GTmetrix - Dubinska strukturna analiza i optimizacija mrežnih zahteva.
+U sklopu zadatka, sajt je testiran kroz alat sa izborom: 
+
+GTmetrix - Dubinska strukturna analiza i optimizacija mrežnih zahteva.
 
 ---
 Autor: Dušan Mihaljica  
